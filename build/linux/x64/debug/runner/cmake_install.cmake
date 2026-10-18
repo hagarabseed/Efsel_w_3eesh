@@ -1,8 +1,8 @@
-# Install script for directory: /home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/efsel_w_3eesh/linux/runner
+# Install script for directory: /home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/Efsel_w_3eesh/linux/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/efsel_w_3eesh/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/Efsel_w_3eesh/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__efsel_w_3eesh_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S"/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/efsel_w_3eesh/linux" -B"/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/efsel_w_3eesh/build/linux/x64/debug"
+  command = /usr/bin/cmake --regenerate-during-build -S"/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/Efsel_w_3eesh/linux" -B"/home/hagarabseed/3 term1/uni_tasks/mobileapp_sec/Efsel_w_3eesh/build/linux/x64/debug"
   description = Re-running CMake...
   generator = 1
 
