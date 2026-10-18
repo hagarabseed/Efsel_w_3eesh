@@ -96,3 +96,7 @@ flutter:
 - Add **movie details page with trailers**
 
 ---
+### - Under the supervision of:
+ - Eng. Atef Mousa, Teaching assistant at the Faculty of AI, Software Development for Mobile Devices Course 
+
+By: Hagar Mahmoud Ahmed.
